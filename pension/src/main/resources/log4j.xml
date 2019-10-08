@@ -14,7 +14,7 @@
 	<logger name="com.ace.wara">
 		<level value="info" />
 	</logger>
-	
+	<!-- 이것은 수정을 해보는 것입니다 -->
 	<!-- 3rdparty Loggers -->
 	<logger name="org.springframework.core">
 		<level value="info" />
